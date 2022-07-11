@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/hiFinn/hiFinn/blob/main/resource/introduction.gif?raw=true)
+![](https://github.com/hiFinn/hiFinn/blob/main/resource/messagif.gif?raw=true)
 
 
 <!--
